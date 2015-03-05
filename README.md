@@ -4,6 +4,7 @@ A fancy list of resources for iOS developers
 Documentation | Summary
 ---- | ----
 [Dash] (http://kapeli.com/dash) | Dash is an API Documentation Browser and Code Snippet Manager
+[Markdown Life] (http://markdownlife.com/) | The last Markdown editor you may ever need (99 cents in the MacAppStore)
 
 Design Tools | Summary
 ---- | ----
@@ -16,6 +17,7 @@ Design Tools | Summary
 [Mockup.io] (http://mockup.io/about/) | Create app mockups
 [LaunchKit] (https://launchkit.io/) | Have app reviews go to Slack and your inbox. Also, generate app store images in Sketch.
 [SimPholders2] (http://simpholders.com/) | Access iPhone simulator app folders
+[App Screenshots] (http://appscreenshotstemplate.com/) | Make beautiful app screenshots that sell
 
 Backend Solutions | Summary
 ---- | ----
