@@ -29,6 +29,7 @@ Blogs / Forums | Summary
 [iOS Dev Weekly] (http://iosdevweekly.com/) | The best of iOS Development links every Friday
 [NSHipster] (http://nshipster.com/) | Focuses on a different tool for iOS each week. Also has examples in Swift and Obj-C
 [Ray Wenderlich] (http://www.raywenderlich.com/) | Blog articles posted all of the time and they also have a ton of tutorials
+[This Week in Swift] (https://swiftnews.curated.co/) | A weekly swift article published by NatashaTheRobot
 
 Free Tutorials | Summary
 ---- | ----
