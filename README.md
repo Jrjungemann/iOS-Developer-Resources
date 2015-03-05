@@ -33,7 +33,7 @@ Blogs / Forums | Summary
 
 Free Tutorials | Summary
 ---- | ----
-[Bloc - Swiftris] (https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675) | Build a tetris clone with Swift
+[Bloc] (https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675) | Build a tetris clone with Swift
 [Code School] (https://www.codeschool.com/paths/ios) | Simple intro to iOS tutorial
 [Route 85] (https://www.youtube.com/watch?v=cvyk5iRymqA&list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO&index=1) | Set of video tutorials by google
 [Stanford iOS 7 and Objective-C] (https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) | A full set of lectures dedicated to learning iOS 7 and Objective C
