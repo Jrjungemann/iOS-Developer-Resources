@@ -1,8 +1,6 @@
 # iOS-Resources
 A fancy list of iOS resources for anyone who wants to build their knowledgbase
 
-## Design Tools / Summary
-
 Documentation | Summary
 ---- | ----
 [Dash] (http://kapeli.com/dash) | Dash is an API Documentation Browser and Code Snippet Manager
