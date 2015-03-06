@@ -1,10 +1,17 @@
 # iOS Developer Resources
 A fancy list of resources for iOS developers
 
-Documentation | Summary
+Backend Solutions | Summary
 ---- | ----
-[Dash] (http://kapeli.com/dash) | Dash is an API Documentation Browser and Code Snippet Manager
-[Markdown Life] (http://markdownlife.com/) | The last Markdown editor you may ever need (99 cents in the MacAppStore)
+[Parse] (https://parse.com/) | Backend solution with SDKs for all platforms.
+[KiiCloud] (http://en.kii.com/platform/enterprise-applications) | An backend alternative to Parse
+
+Blogs / Forums | Summary
+---- | ----
+[iOS Dev Weekly] (http://iosdevweekly.com/) | The best of iOS Development links every Friday
+[NSHipster] (http://nshipster.com/) | Focuses on a different tool for iOS each week. Also has examples in Swift and Obj-C
+[Ray Wenderlich] (http://www.raywenderlich.com/) | Blog articles posted all of the time and they also have a ton of tutorials
+[This Week in Swift] (https://swiftnews.curated.co/) | A weekly swift article published by NatashaTheRobot
 
 Design Tools | Summary
 ---- | ----
@@ -19,17 +26,14 @@ Design Tools | Summary
 [SimPholders2] (http://simpholders.com/) | Access iPhone simulator app folders
 [App Screenshots] (http://appscreenshotstemplate.com/) | Make beautiful app screenshots that sell
 
-Backend Solutions | Summary
+Documentation | Summary
 ---- | ----
-[Parse] (https://parse.com/) | Backend solution with SDKs for all platforms.
-[KiiCloud] (http://en.kii.com/platform/enterprise-applications) | An backend alternative to Parse
+[Dash] (http://kapeli.com/dash) | Dash is an API Documentation Browser and Code Snippet Manager
+[Markdown Life] (http://markdownlife.com/) | The last Markdown editor you may ever need (99 cents in the MacAppStore)
 
-Blogs / Forums | Summary
+File Backup | Summary
 ---- | ----
-[iOS Dev Weekly] (http://iosdevweekly.com/) | The best of iOS Development links every Friday
-[NSHipster] (http://nshipster.com/) | Focuses on a different tool for iOS each week. Also has examples in Swift and Obj-C
-[Ray Wenderlich] (http://www.raywenderlich.com/) | Blog articles posted all of the time and they also have a ton of tutorials
-[This Week in Swift] (https://swiftnews.curated.co/) | A weekly swift article published by NatashaTheRobot
+[Dropbox] (https://www.dropbox.com) | 2 GB of free Data Storage and 1 TB for $9.99 per month
 
 Free Tutorials | Summary
 ---- | ----
