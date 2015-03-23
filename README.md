@@ -17,6 +17,7 @@ Design Tools | Summary
 ---- | ----
 [Photoshop] (http://www.photoshop.com/products) | Image editing tool. Costs $20 per month
 [GIMP] (http://www.gimp.org/) | A free alternative to Photoshop
+[Pixelmator](http://www.pixelmator.com/) | A full-featured, layer-based, native Mac image editing app. $30.
 [Sketch] (http://bohemiancoding.com/sketch/) | Useful for creating design documents
 [MakeAppIcon] (http://makeappicon.com/) | Resizes and optimizes your icon designs into all formats needed for iOS and Android
 [CoreAnimator] (http://www.coreanimator.com/#animatecode) | Create animations and turns them into native iOS code
@@ -30,6 +31,9 @@ Documentation | Summary
 ---- | ----
 [Dash] (http://kapeli.com/dash) | Dash is an API Documentation Browser and Code Snippet Manager
 [Markdown Life] (http://markdownlife.com/) | The last Markdown editor you may ever need (99 cents in the MacAppStore)
+[MacDown] (http://macdown.uranusjr.com/) | A free, open-source Markdown editor
+[AppleDoc](https://github.com/tomaz/appledoc) | Auto-generated Objective-C documentation
+[Jazzy] (https://github.com/realm/jazzy) | Auto-generated Swift documentation
 
 File Backup | Summary
 ---- | ----
