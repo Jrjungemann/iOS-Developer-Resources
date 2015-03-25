@@ -27,6 +27,7 @@ Design Tools | Summary
 [SimPholders2] (http://simpholders.com/) | Access iPhone simulator app folders
 [App Screenshots] (http://appscreenshotstemplate.com/) | Make beautiful app screenshots that sell
 [Flat UI Colors](http://flatuicolors.com/) | Nice flat colors to use for your user interface
+
 Documentation | Summary
 ---- | ----
 [Dash] (http://kapeli.com/dash) | Dash is an API Documentation Browser and Code Snippet Manager
@@ -54,9 +55,9 @@ Have Questions? | Summary
 [Stack Overflow - Swift] (http://stackoverflow.com/questions/tagged/swift) | Ask Swift related questions
 [/r/iOSProgramming] (https://www.reddit.com/r/iOSProgramming/) | A subreddit dedicated entirely to iOS development
 
-Contributors
----- | ----
-[Myself] (https://github.com/Jrjungemann)
-[Aaron Brager] (https://github.com/getaaron)
-[Dulio Denis] (https://github.com/duliodenis)
-[Eric Gu] (https://github.com/ericcgu)
+Contributors - 
+[Jon Jungemann](https://github.com/Jrjungemann) |
+[Aaron Brager](https://github.com/getaaron) |
+[Marius Horga](https://github.com/mhorga) |
+[Dulio Denis](https://github.com/duliodenis) |
+[Eric Gu](https://github.com/ericcgu)
