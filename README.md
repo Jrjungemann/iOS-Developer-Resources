@@ -1,7 +1,7 @@
 # iOS Developer Resources
 A fancy list of resources for iOS developers
 
-iOS Developer Resources | Summaries
+---- | Summaries
 ---- | ----
 **Backend Solutions** | ----
 [Parse] (https://parse.com/) | Backend solution with SDKs for all platforms.
