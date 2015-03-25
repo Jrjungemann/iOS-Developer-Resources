@@ -23,10 +23,10 @@ Design Tools | Summary
 [CoreAnimator] (http://www.coreanimator.com/#animatecode) | Create animations and turns them into native iOS code
 [Wireframe.cc] (https://wireframe.cc/) | A lightweight wireframe tool
 [Mockup.io] (http://mockup.io/about/) | Create app mockups
-[LaunchKit] (https://launchkit.io/) | Have app reviews go to Slack and your inbox. Also, generate app store images in Sketch.
+[LaunchKit] (https://launchkit.io/) | Have app reviews go to Slack and your inbox. Also, generate app store images in Sketch
 [SimPholders2] (http://simpholders.com/) | Access iPhone simulator app folders
 [App Screenshots] (http://appscreenshotstemplate.com/) | Make beautiful app screenshots that sell
-
+[Flat UI Colors](http://flatuicolors.com/) | Nice flat colors to use for your user interface
 Documentation | Summary
 ---- | ----
 [Dash] (http://kapeli.com/dash) | Dash is an API Documentation Browser and Code Snippet Manager
@@ -53,3 +53,10 @@ Have Questions? | Summary
 [Stack Overflow - Objective-C] (http://stackoverflow.com/questions/tagged/objective-c) | Ask Objective-C related questions
 [Stack Overflow - Swift] (http://stackoverflow.com/questions/tagged/swift) | Ask Swift related questions
 [/r/iOSProgramming] (https://www.reddit.com/r/iOSProgramming/) | A subreddit dedicated entirely to iOS development
+
+Contributors
+---- | ----
+[Myself] (https://github.com/Jrjungemann)
+[Aaron Brager] (https://github.com/getaaron)
+[Dulio Denis] (https://github.com/duliodenis)
+[Eric Gu] (https://github.com/ericcgu)
