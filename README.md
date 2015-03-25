@@ -39,7 +39,7 @@ A fancy list of resources for iOS developers
 [RyPress] (http://rypress.com/) | A couple of simple tutorials on Objective-C and Git
 **Free Swift Tutorials** | ----
 [iOS Networking with Swift] (https://www.udacity.com/course/ud421) | Learn how to incorporate networking into your apps
-[Standford iOS 8 and Swift] (https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) | A full set of lectures for iOS 8 and Swift
+[Stanford iOS 8 and Swift] (https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) | A full set of lectures for iOS 8 and Swift
 [Bloctris] (https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/675) | Build a tetris clone with Swift
 **Have Questions?** | ----
 [Stack Overflow - Objective-C] (http://stackoverflow.com/questions/tagged/objective-c) | Ask Objective-C related questions
