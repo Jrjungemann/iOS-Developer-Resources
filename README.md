@@ -32,7 +32,7 @@ iOS Developer Resources | Summaries
 [Jazzy] (https://github.com/realm/jazzy) | Auto-generated Swift documentation
 **File Backup** | ----
 [Dropbox] (https://www.dropbox.com) | 2 GB of free Data Storage and 1 TB for $9.99 per month
-**Free Objective C Tutorials** | ----
+**Free Obj-C Tutorials** | ----
 [Code School] (https://www.codeschool.com/paths/ios) | Simple intro to iOS tutorial
 [Route 85] (https://www.youtube.com/watch?v=cvyk5iRymqA&list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO&index=1) | Set of video tutorials by google
 [Stanford iOS 7 and Objective-C] (https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) | A full set of lectures dedicated to learning iOS 7 and Objective C
