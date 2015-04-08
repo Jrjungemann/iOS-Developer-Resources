@@ -6,6 +6,12 @@ A fancy list of resources for iOS developers
 **Coding Style** | ----
 [Swift] (https://github.com/raywenderlich/swift-style-guide) | Swift coding style guide.
 [Objective-C] (https://github.com/raywenderlich/objective-c-style-guide) | Objective-C coding style guide.
+**Frameworks** | ----
+[ReactiveCocoa] (https://github.com/ReactiveCocoa/ReactiveCocoa) | A functional reactive programming framework that provides APIs for composing and transforming streams of values.
+[AFNetworking] (https://github.com/AFNetworking/AFNetworking) | The most famous networking library for iOS and Mac OS X.
+[MagicalRecord] (https://github.com/magicalpanda/MagicalRecord) | The fastest and easiest way to work with Core Data.
+[JSONKit] (https://github.com/johnezang/JSONKit) | A high performance JSON library for Objective-C.
+[CocoaPods] (https://github.com/CocoaPods/CocoaPods) | The most used dependency manager for Xcode projects.
 **Backend Solutions** | ----
 [Parse] (https://parse.com/) | Backend solution with SDKs for all platforms.
 [KiiCloud] (http://en.kii.com/platform/enterprise-applications) | An backend alternative to Parse
