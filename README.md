@@ -18,6 +18,7 @@ A fancy list of resources for iOS developers
 **Blogs / Forums** | ----
 [iOS Dev Weekly] (http://iosdevweekly.com/) | The best of iOS Development links every Friday
 [NSHipster] (http://nshipster.com/) | Focuses on a different tool for iOS each week. Also has examples in Swift and Obj-C
+[objc⇅] (http://www.objc.io/) | A periodical about best practices and advanced techniques for iOS and OS X development.
 [Ray Wenderlich] (http://www.raywenderlich.com/) | Blog articles posted all of the time and they also have a ton of tutorials
 [This Week in Swift] (https://swiftnews.curated.co/) | A weekly swift article published by NatashaTheRobot
 **Design Tools** | ----
