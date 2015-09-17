@@ -22,6 +22,9 @@ A fancy list of resources for iOS developers
 [objc⇅] (http://www.objc.io/) | A periodical about best practices and advanced techniques for iOS and OS X development.
 [Ray Wenderlich] (http://www.raywenderlich.com/) | Blog articles posted all of the time and they also have a ton of tutorials
 [This Week in Swift] (https://swiftnews.curated.co/) | A weekly swift article published by NatashaTheRobot
+**Podcasts** | ----
+[Developing Perspective] (http://developingperspective.com/) | A podcast by David Smith discussing news of note in iOS Development, Apple and the like.
+[Debug] (http://www.imore.com/debug) | Debug is a conversational interview show about developing software and services, primarily for iPhone, iPad, Mac, and gaming
 **Design Tools** | ----
 [Photoshop] (http://www.photoshop.com/products) | Image editing tool. Costs $20 per month
 [GIMP] (http://www.gimp.org/) | A free alternative to Photoshop
